@@ -1,7 +1,7 @@
-Grup 32 Görsel Programlama Ödev Program çalışması:
 
-- Programı bir IDE yoluyla Run ediniz.
-- Ekrana gelen arayüzden "Dosya Ekle" seçeneğini seçiniz.
-- Windows Dosya seçici arayüzünden sağ alttan dosya türünü ardından ana ekrandan kullanmak istediğiniz .xml ya da .txt dosyasını seçiniz
-- Dosya seçildikten sonra grafik animasyonları otomatik olarak başlar.
-- Duraklat butonundan animasyonu durdurabilir, ardından Devam ettirebilir, Line ve Pipe grafikleri arasında geçiş yapabilir ve Animation Speed sliderını kullanarak animasyon hızını ayarlayabilirsiniz.
+
+- Run the code via an IDE (eg. NetBeans IDE)
+- Choose " Dosya Ekle" from the main interface.
+- Choose the file type from Windows File Chooser and then choose either the .txt or .xml file provided in the "Data Source" file.
+- The animations starts automatically after you choose the file.
+- Buttons "Duraklat" can pause the animation , "Devam" can continue it, you can switch between Line and Pipe graphics and change animation speed via the slider on the bottom of the interface in real time.
