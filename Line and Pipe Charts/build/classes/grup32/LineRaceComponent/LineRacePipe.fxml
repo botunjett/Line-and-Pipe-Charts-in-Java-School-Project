@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<HBox fx:id="classParent" alignment="CENTER_LEFT" fillHeight="false" maxHeight="50.0" minHeight="50.0" prefHeight="150.0" prefWidth="200.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="grup32.LineRaceComponent.LineRacePipeController">
+   <children>
+      <VBox fx:id="graph" fillWidth="false" prefHeight="200.0" prefWidth="20.0" style="-fx-background-color: red; -fx-border-color: white; -fx-border-width: 10;" HBox.hgrow="NEVER">
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <HBox.margin>
+            <Insets />
+         </HBox.margin>
+      </VBox>
+      <Text fx:id="text" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+   </children>
+</HBox>
